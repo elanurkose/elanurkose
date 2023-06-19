@@ -1,7 +1,7 @@
 ![MasterHead](https://i.imgur.com/8rAanIG.png)
 <h1 align="center">Hi 👋, I'm Elanur</h1>
 <h3 align="center">Continuously Learning, Coding, and Growing</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elanurkose&label=Profile%20views&color=0e75b6&style=flat" alt="elanurkose" /> </p>
 
