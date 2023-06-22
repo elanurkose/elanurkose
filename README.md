@@ -24,4 +24,4 @@
 <p align = "center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elanurkose&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" 
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=elanurkose&label=Profile%20views&color=49446f&style=flat" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=elanurkose&label=Profile%20views&color=80FFA0&style=flat" /> </p>
