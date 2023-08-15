@@ -3,11 +3,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Data Visualization, Data Mining**
-
-- 👯 I’m looking to collaborate on **Artificial Intelligence**
-
-- 💬 Ask me about **.Net Core**
+- 🌱 I’m currently learning **Mobile Development**
 
 - 📫 How to reach me **elanurkose23@gmail.com**
 
