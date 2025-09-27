@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Elanur 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/elanurkose/elanurkose/blob/main/Design.png?raw=true" alt="Elanur Köse" width="600"/>
+  <img src="https://github.com/elanurkose/elanurkose/blob/main/Design.png?raw=true" alt="Elanur Köse" width="900"/>
 </p>
 
 <p align="center">
