@@ -1,9 +1,9 @@
 
-<p align="center">
-  <img src="https://github.com/elanurkose/elanurkose/blob/main/Design.png?raw=true" alt="Elanur Köse" width="400"/>
-</p>
-
 <h1 align="center">Hi, I'm Elanur 👋</h1>
+
+<p align="center">
+  <img src="https://github.com/elanurkose/elanurkose/blob/main/Design.png?raw=true" alt="Elanur Köse" width="600"/>
+</p>
 
 <p align="center">
 🎓 Recent Computer Engineering graduate from Fırat University <br/>
