@@ -1,8 +1,7 @@
-
 <h1 align="center">Hi, I'm Elanur 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/elanurkose/elanurkose/blob/main/Design.png?raw=true" alt="Elanur Köse" width="1000"/>
+  <img src="https://github.com/elanurkose/elanurkose/blob/main/Design.png?raw=true" alt="Elanur Köse" width="900"/>
 </p>
 
 <p align="center">
@@ -13,14 +12,17 @@
 
 ---
 
-### 🚀 About Me
-- 🌱 Currently exploring **Data Science, AI & Web Development**  
-- 🔭 Interested in **Machine Learning, Deep Learning, and Analytics**  
-- 📚 Always eager to learn and improve through real-world projects  
+<h3 align="center">🚀 About Me</h3>
+
+<p align="center">
+  🌱 Currently exploring <b>Data Science, AI & Web Development</b> <br/>
+  🔭 Interested in <b>Machine Learning, Deep Learning, and Analytics</b> <br/>
+  📚 Always eager to learn and improve through real-world projects  
+</p>
 
 ---
 
-### 🛠️ Tech Stack  
+<h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
@@ -46,7 +48,7 @@
 
 ---
 
-### 🌍 Connect with Me
+<h3 align="center">🌍 Connect with Me</h3>
 
 <p align="center">
   <!-- Email -->
@@ -61,4 +63,6 @@
 
 ---
 
-⭐️ From [elanurkose](https://github.com/elanurkose)
+<p align="center">
+  ⭐️ Check out more on my <a href="https://github.com/elanurkose">GitHub profile</a>  
+</p>
